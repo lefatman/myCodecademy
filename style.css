@@ -1,16 +1,12 @@
 * {
-    font-family: 'Nunito Sans';
+    font-family: 'lucida console';
   }
 
 body {
     background-color: #ffffff;
 }
 
-.massage-title {
-    max-width: 640px;
-    margin: 0 auto;
-    text-align: center;
-  }
+
 
 header {
     display: flex;
@@ -18,7 +14,7 @@ header {
   }
   
 
-.message_window {
+.joke_window {
     border: 2px solid #979797;
     height: 180px;
     width: 810px;
@@ -37,7 +33,7 @@ header {
     text-align: center;
 }
 
-#generate_message {
+#generate_joke {
     width: 170px;
     height: 60px;
     font-size: 18px;
