@@ -1,0 +1,35 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("backgroundpattern.jpeg") ;
+}
+.subheader {
+    text-align: left;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#subheader1{
+    background-color: mediumspringgreen;
+}
+#subheader2{
+    background-color: lightcoral ;
+}
+#subheader3{
+    background-color: skyblue;
+}
+span{
+    font-weight: bold;
+    color: blue;
+}
+p{
+    color: black;
+}
+h4 {
+    font-weight: bold;
+}
